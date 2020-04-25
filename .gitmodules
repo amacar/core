@@ -1,0 +1,3 @@
+[submodule "plugins/home-sensor-data"]
+	path = plugins/home-sensor-data
+	url = https://github.com/amacar/home-sensor-data
