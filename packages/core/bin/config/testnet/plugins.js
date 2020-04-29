@@ -7,6 +7,7 @@ module.exports = {
         },
         minimumNetworkReach: 5,
     },
+    "@amacar/home-sensor-data": {},
     "@arkecosystem/core-state": {},
     "@arkecosystem/core-magistrate-transactions": {},
     "@arkecosystem/core-database-postgres": {
@@ -71,5 +72,4 @@ module.exports = {
         whitelist: ["127.0.0.1", "::ffff:127.0.0.1"],
     },
     "@arkecosystem/core-snapshots": {},
-    "@amacar/home-sensor-data": {},
 };
